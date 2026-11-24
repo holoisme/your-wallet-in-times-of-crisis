@@ -2,7 +2,7 @@ import './App.css'
 
 function App() {
 	return (
-		<div>
+		<div className=''>
 			Your Wallet in Times of Crisis
 		</div>
 	)
